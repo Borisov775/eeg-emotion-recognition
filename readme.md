@@ -12,4 +12,13 @@ Those works have been started at about 50 years ago, but the most significant st
 
 <p> Приложение нацелено на определение эмоционального и функционального состояния человека, готовность его выполнять поставленную задачу и анализ этой готовности. В дополнение к этому данное приложение( приложение для распознания эмоций через ЭЭГ сигналы) можно использовать в постановке истинного эмоционального состояния пациента, в отсутсвии других методов определения психического состояния пациента. Приложение будет загружать/получать данные ЭЭГ и делать расчеты в режиме реального времени.</p>
 
+# Technical Details
+<ul>
+<li><b>Primary languages: Java, Kotlin, Python</b></li>
+<li><b>Technologies: Android/IOS, ML, DL, OpenBCI, a bit of Arduino</b></li>
+<li><b> Help. Advice. I know at least 2 people who've done this before</b></li>
+<li><b>Estimated Development Time(planning+app development+integration+testing): 2-3 month</b></li>
+</ul>
+
+
 ![psychological evaluation](https://lh3.googleusercontent.com/0xfa7PGp_G7AlSahisnKMHzi34lW7bWaLeSu7q-0k4WdhyAOayv1wo_oXswF0XcEWb6nlFPGYnfz-jIfdIlV0XygpE6TLE-HX2ijGOKp)
