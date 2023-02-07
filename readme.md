@@ -6,6 +6,7 @@ Those works have been started at about 50 years ago, but the most significant st
 <p> But who said that the same technologies and methods we can't use for evaluating the psychological state of mind of a human? We could have solved so many issues knowing our true state of mind. How many times have you asked yourself "Why I failed ?", "What was the cause of my failure?". Many good therapists advised to not create a question with why and istead of this try to analyze the causes. Thanks to the development in the field of machine and deep learning, solutions have appeared that allow machines to recognize and analyze human emotions. However, along with smart classification algorithms, there are difficulties with identification, namely the collection of human emotions. After all, facial expressions, speech, and human behavior can be an ineffective source of information collection. Therefore, with the advent of more sensitive sensory technologies, such as BCI (brain-computer interface), it has become possible to read physiological signals that capture brain signals and use them as input data for systems that understand the correlation between emotions and EEG changes, as well as exclude social labeling (hiding emotions).<p>
 <h2> Analysis</h2>
 <p> [An application with an emotion recognition system through EEG signals. Domain analysis.](https://www.notion.so/fd38cf489aaf48fb9a8ec0a39e028e39)<p>
+<p>[A presentation](\emotion-recognition-through-eeg-signals\Emotion_Recognition_using_EEG_signals.pptx)</p>
 
 # High-Level Overview
 
