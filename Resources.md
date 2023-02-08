@@ -16,5 +16,19 @@
 <ul>
     <li> A fascinationg explanation from NeuraLink company(mechanism of retrievind data of our brains) [click](https://neuralink.com/science/)</li>
     <li> What is a Brain Computer Interface? [click](https://cumming.ucalgary.ca/research/pediatric-bci/bci-program/what-bci)</li>
+    <li> Lex Fridman wears the Kernel Flow brain-computer interface [click](https://www.youtube.com/watch?v=Zs_g4YkTYYM)</li>
     <li> NeuroChat [click](https://www.youtube.com/watch?v=2wacB6Vsms0)
 </ul>
+
+# Deep Learning and Machine learning
+
+<ul>
+    <li> Deep learning basics [click](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb#scrollTo=gQ6eXejI_3fl)</li>
+    <li> Introduction to ML [click](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)</li>
+    <li> Predicting emotions using RNN(bad explanation) [click](https://medium.com/geekculture/predicting-emotions-using-eeg-data-with-recurrent-neural-networks-8acf384896f5)</li>
+    <li> Convolutional Neural Networks [click](https://www.youtube.com/watch?v=U1toUkZw6VI&t=124s)</li>
+    <li> Datasets for EEG processing [click](https://github.com/meagmohit/EEG-Datasets)
+
+</ul>
+
+
