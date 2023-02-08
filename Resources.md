@@ -1,4 +1,4 @@
-<h1> Resources for implementing the project<h1>
+# Resources for implementing the project 
 
 <ul>
     <li> Emotion detection using EEG signals (Nature) [click](https://docs.google.com/document/d/1pvIq6heTCx47VyVZ_U0Ba5_dnxcn_sgScG7nfDUXXBE/edit?usp=sharing)</li>
@@ -9,3 +9,12 @@
     <li> Concept of an app with emotion's recognition through EEG. Analysis [click](https://www.notion.so/fd38cf489aaf48fb9a8ec0a39e028e39)</li>
 
 <ul>
+<br>
+
+# Explain to me how does it work ?!</h2>
+
+<ul>
+    <li> A fascinationg explanation from NeuraLink company(mechanism of retrievind data of our brains) [click](https://neuralink.com/science/)</li>
+    <li> What is a Brain Computer Interface? [click](https://cumming.ucalgary.ca/research/pediatric-bci/bci-program/what-bci)</li>
+    <li> NeuroChat [click](https://www.youtube.com/watch?v=2wacB6Vsms0)
+</ul>
