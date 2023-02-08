@@ -9,7 +9,7 @@ Those works have been started at about 50 years ago, but the most significant st
 <h2> Analysis</h2>
 <p> [An application with an emotion recognition system through EEG signals. Domain analysis.](https://www.notion.so/fd38cf489aaf48fb9a8ec0a39e028e39)<p>
 <p>[A presentation](https://gitlab.com/Developer_77/emotion-recognition-through-eeg-signals/-/blob/main/Emotion_Recognition_using_EEG_signals.pptx)</p>
-<p>[Resources](https://gitlab.com/Developer_77/emotion-recognition-through-eeg-signals/-/blob/main/Emotion_Recognition_using_EEG_signals.pptx)</p>
+<p>[Resources](https://gitlab.com/Developer_77/emotion-recognition-through-eeg-signals/-/blob/main/Resources.md)</p>
 
 # High-Level Overview
 
