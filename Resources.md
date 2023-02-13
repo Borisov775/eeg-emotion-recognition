@@ -14,10 +14,9 @@
 # Explain to me how does it work ?!</h2>
 
 <ul>
-    <li> A fascinationg explanation from NeuraLink company(mechanism of retrievind data of our brains) [click](https://neuralink.com/science/)</li>
+    <li> A fascinationg explanation from NeuraLink company [click](https://neuralink.com/science/)</li>
     <li> What is a Brain Computer Interface? [click](https://cumming.ucalgary.ca/research/pediatric-bci/bci-program/what-bci)</li>
     <li> Lex Fridman wears the Kernel Flow brain-computer interface [click](https://www.youtube.com/watch?v=Zs_g4YkTYYM)</li>
-    <li> NeuroChat [click](https://www.youtube.com/watch?v=2wacB6Vsms0)
 </ul>
 
 # Deep Learning and Machine learning
