@@ -25,6 +25,7 @@ Those works have been started at about 50 years ago, but the most significant st
 <h2> Management</h2>
 <li> 2 workers -> Machine and Deep learning + searching datasets
 <li> 2 workers -> App Development + integration 
+<p>[psychological evaluation in "Ad Astra(heart rate's analysis)"](https://youtu.be/FKpq4vFxDqQ)
 
 
 ![psychological evaluation](https://i.ytimg.com/vi/FKpq4vFxDqQ/maxresdefault.jpg)
